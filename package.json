@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "parcel build index.ts --target node && node dist/index.js"
+  },
+  "dependencies": {
+    "firebase": "^9.23.0",
+    "node-fetch": "2.6.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^5.1.3"
+  }
+}
