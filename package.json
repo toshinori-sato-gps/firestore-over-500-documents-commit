@@ -3,7 +3,7 @@
     "start": "parcel build index.ts --target node && node dist/index.js"
   },
   "dependencies": {
-    "firebase": "^9.23.0",
+    "firebase": "^10.0.0",
     "node-fetch": "2.6.1"
   },
   "devDependencies": {
